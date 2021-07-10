@@ -1,13 +1,22 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
+    <Nav/>
+    <transition name="animate" enter-active-class="animated fadeIn" leave-active-class="animate__delay-2s" mode="out-in">
+      <router-view/>
+    </transition>
+    <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
   </div>
 </template>
 
+<script>
+import Nav from "@/components/Nav"
+
+export default {
+  components: {
+    Nav
+  }
+}
+</script>
 <style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
