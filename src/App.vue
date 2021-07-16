@@ -1,11 +1,11 @@
 <template>
-  <div id="app">
+  <main id="main">
     <Nav/>
     <transition name="animate" enter-active-class="animated fadeIn" leave-active-class="animate__delay-2s" mode="out-in">
       <router-view/>
     </transition>
     <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-  </div>
+  </main>
 </template>
 
 <script>
@@ -18,12 +18,9 @@ export default {
 }
 </script>
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+#main {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
 }
 
 #nav {
