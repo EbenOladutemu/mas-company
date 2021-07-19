@@ -16,6 +16,21 @@
   .toggle-menu a img {
     width: 8vw;
   }
+  .hero-container h1 {
+    font-size: 3.5rem;
+  }
+  .flex-row-lg {
+    display: flex;
+    flex-direction: row;
+  }
+  .mas-social {
+    margin-right: 1rem;
+    margin-top: 0;
+  }
+  .mas-form {
+    width: 50%;
+    margin-left: 1rem;
+  }
 }
 
 @media (min-width: 992px) and (max-width: 1080px) {

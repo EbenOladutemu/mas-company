@@ -35,4 +35,17 @@ export default {
     }
   }
 }
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter-active {
+  transition: opacity 0.15s;
+}
+
+
+.fade-leave-active {
+  transition: opacity 0.15s;
+  opacity: 0;
+}
 </style>

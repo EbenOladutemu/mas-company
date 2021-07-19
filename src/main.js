@@ -3,8 +3,8 @@ import App from './App.vue'
 import router from './router'
 import './registerServiceWorker'
 
-import './assets/css/styles.css'
-import './assets/css/media.css'
+import './assets/css/styles.scss'
+import './assets/css/media.scss'
 
 Vue.config.productionTip = false
 

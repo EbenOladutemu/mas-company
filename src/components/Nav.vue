@@ -13,12 +13,24 @@
     </button>
     <div id="navContainer" class="nav-container">
       <ul id="navLinks" class="nav-links">
-        <li class="toggle-menu"><a href="index.html#features">Features</a></li>
-        <li class="toggle-menu"><a href="index.html#benefits">Benefits</a></li>
-        <li class="toggle-menu"><a href="index.html#use-cases">Use Cases</a></li>
-        <li class="toggle-menu"><a href="faq.html">Faq</a></li>
-        <li class="toggle-menu"><a href="privacy-policy.html">Privacy Policy</a></li>
-        <li class="toggle-menu"><a href="#contact-us">Contact Us</a></li>
+        <li class="toggle-menu">
+          <router-link to="/">About</router-link>
+        </li>
+        <li class="toggle-menu">
+          <router-link to="/">Benefits</router-link>
+        </li>
+        <li class="toggle-menu">
+          <router-link to="/">Use Cases</router-link>
+        </li>
+        <li class="toggle-menu">
+          <router-link to="/">Faq</router-link>
+        </li>
+        <li class="toggle-menu">
+          <router-link to="/">Privacy Policy</router-link>
+        </li>
+        <li class="toggle-menu">
+          <a href="#contact-us">Contact Us</a>
+        </li>
       </ul>
     </div>
   </nav>

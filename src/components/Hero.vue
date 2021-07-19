@@ -1,11 +1,13 @@
 <template>
-  <section id="hero">
+  <div id="hero">
     <div class="hero-container">
-      <h1>Welcome to Amoeba</h1>
-      <h2>We are team of talanted designers making websites with Bootstrap</h2>
-      <a href="#about" class="btn-get-started scrollto">Get Started</a>
+      <h1>Welcome to MAS Company</h1>
+      <!-- <h2>We are team of talanted designers making websites with Bootstrap</h2> -->
+      <a href="#get-started">
+        <button class="btn btn-primary get-started">Get Started</button>
+      </a>
     </div>
-  </section>
+  </div>
 </template>
 
 <script>
