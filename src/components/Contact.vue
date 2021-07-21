@@ -5,13 +5,17 @@
      <div class="flex-row-lg justify-between align-items-center">
        <div class="mas-social text-start">
          <p>
+           <i class="fas fa-map-pin"></i>
+           <span>48, Circular Road</span>
+         </p>
+         <p>
            <i class="fas fa-envelope"></i>
            <span><a href="mailto:mascompanysllimited@gmail.com">mascompanysllimited@gmail.com</a></span>
         </p>
          <p>
            <i class="fas fa-phone"></i>
            <span>
-             <a href="tel:00232 78 082 834">00232 78 082 834</a>/
+             <a href="tel:00232 78 082 834">00232 78 082 834</a>,
              <a href="tel:00232 79 427 272">00232 79 427 272</a>
             </span>
           </p>

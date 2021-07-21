@@ -1,8 +1,8 @@
 <template>
   <main id="main">
     <Nav/>
-    <transition name="animate" enter-active-class="animated fadeIn" leave-active-class="animate__delay-2s" mode="out-in">
-      <router-view/>
+    <transition name="fade" mode="out-in">
+      <router-view />
     </transition>
     <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
   </main>

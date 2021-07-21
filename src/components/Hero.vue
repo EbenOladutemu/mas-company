@@ -1,11 +1,9 @@
 <template>
   <div id="hero">
     <div class="hero-container">
-      <h1>Welcome to MAS Company</h1>
-      <!-- <h2>We are team of talanted designers making websites with Bootstrap</h2> -->
-      <a href="#get-started">
-        <button class="btn btn-primary get-started">Get Started</button>
-      </a>
+      <slot name="page-name"></slot>
+      <!-- <h2></h2> -->
+      <slot name="get-started"></slot>
     </div>
   </div>
 </template>
