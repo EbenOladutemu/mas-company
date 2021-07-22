@@ -28,6 +28,13 @@
           our when executing our contracts. 
         </p>
         <div class="text-center" style="margin-top: 4rem">
+          <h3 class="fw-bold">Company Registration</h3>
+          <p class="mb-4">
+            MINISTRY OF WORKS – <strong>PREMIER CLASS</strong><br>
+            NATIONAL WATER RESOURCE MANAGEMENT AGENCY (DRILLING)– <strong>CLASS B</strong><br>
+            SIERRA LEONE ROADS AUTHORITY – <strong>CLASS A</strong><br>
+            SIERRA LEONE ELECTRICITY AND WATER REGULATORY AUTHORITY LICENSE
+          </p>
           <h3 class="fw-bold">Our Vision</h3>
           <p class="mb-4">Our vision is to serve our customers as a one-stop shop for all their needs. </p>
           <h3 class="fw-bold">Our Mission Statement</h3>

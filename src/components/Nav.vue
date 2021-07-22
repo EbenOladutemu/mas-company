@@ -26,7 +26,7 @@
           <router-link to="/team">Team</router-link>
         </li>
         <li class="toggle-menu">
-          <router-link to="/">Projects</router-link>
+          <router-link to="/projects">Projects</router-link>
         </li>
         <li class="toggle-menu">
           <a href="#contact-us">Contact Us</a>
