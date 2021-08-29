@@ -81,13 +81,20 @@ export default {
           image: "",
           showRemainder: false,
         },
-        { 
-          name: "Abdul Rahman Turay",
-          title: "Design Team Leader",
-          bio: "Abdul is a 2010 graduate from Fourah Bay College – University of Sierra Leone in the department of Geology. He also holds a M.S. Hydrogeology from Clemson University in South Carolina, USA.",
-          bioRemainder: "He has over ten (10) years’ experience in Mineral Exploration, Borehole Drilling, the Environment and Mining and have worked in all the 14 Districts in Sierra Leone. He commenced his career London Mining Company PLC & Timis Corporation, Environment Protection Agency SL, AMR Gold-Wilkinson Hills Mining Project (SL) Ltd, BrunnenBau Conrad (SL) Ltd, Team & Team International, CEMMATS Group (SL) Ltd and MAS Company SL Limited. In addition to his qualification, he is a member of the Sierra Leone Institution of Geoscientists (SLIG) and has attended several courses/training/seminars etc.",
-          image: "",
-          showRemainder: false,
+        // { 
+        //   name: "Abdul Rahman Turay",
+        //   title: "Design Team Leader",
+        //   bio: "Abdul is a 2010 graduate from Fourah Bay College – University of Sierra Leone in the department of Geology. He also holds a M.S. Hydrogeology from Clemson University in South Carolina, USA.",
+        //   bioRemainder: "He has over ten (10) years’ experience in Mineral Exploration, Borehole Drilling, the Environment and Mining and have worked in all the 14 Districts in Sierra Leone. He commenced his career London Mining Company PLC & Timis Corporation, Environment Protection Agency SL, AMR Gold-Wilkinson Hills Mining Project (SL) Ltd, BrunnenBau Conrad (SL) Ltd, Team & Team International, CEMMATS Group (SL) Ltd and MAS Company SL Limited. In addition to his qualification, he is a member of the Sierra Leone Institution of Geoscientists (SLIG) and has attended several courses/training/seminars etc.",
+        //   image: "",
+        //   showRemainder: false,
+        // },
+        {
+          name: "Mohamed Kamara",
+          title: "Head Site Supervisor",
+          bioRemainder: "..",
+          image: "Mohamed-Kamara",
+          showRemainder: false
         },
         { 
           name: "Abubakarr Sesay",
