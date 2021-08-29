@@ -24,7 +24,7 @@
         </p>
         <div class="mas-grid">
           <div class="card" v-for="(team, index) in teams" :key="index">
-            <img :src="team.image ? require('./../assets/img/team/' + team.image + '.jpeg') : 'https://via.placeholder.com/750x850'" class="card-img-top" alt="...">
+            <img :src="team.image ? require('./../assets/img/team/' + team.image + '.jpeg') : 'https://via.placeholder.com/810x1080'" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">{{ team.name }} - <strong>{{ team.title }}</strong></h5>
               <p class="card-text">
