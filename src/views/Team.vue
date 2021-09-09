@@ -101,7 +101,7 @@ export default {
           title: "Water Development/Hydrogeologist",
           bio: "Abubakarr is a graduate from Fourah Bay College – University of Sierra Leone with a BSc. in Geology, and a M.Sc from Njala University in Environmental Management & Quality Control. He has over nine (9) years’ experience in Environmental, Water Management and Public awareness campaigns for government institutions, NGOs and INGOs etc.",
           bioRemainder: "He also has experience in Borehole Drilling, the Environment and Mining and have worked in all the 14 Districts in Sierra Leone. He commenced his career as a Technical Advisor for Rural and Private Sector development project (World Bank funded program), Sky Fox (project implemented by Steward (USAID funded project), Brunnenbau Conrad SL Limited and MAS Company SL Limited. In addition to his qualification, he is a member of the Sierra Leone Institution of Geoscientists (SLIG) and has attended several courses/training/seminars etc.",
-          image: "",
+          image: "Abubakarr-Sesay",
           showRemainder: false,
         },
         { 
@@ -117,7 +117,7 @@ export default {
           title: "Chief Mechanical & Electronic Engineer",
           bio: "Sulaiman Koroma has over 8 years on field experience as an electrician working with the London Mining, Timis Mining Cooperation, Electricity Distribution and Supply Authority (EDSA) in various capacities such as Design and layout cabling system,",
           bioRemainder: "Installation and maintenance of Generator, emergency service on all electrical installation and equipment, Diagnose problem and provide solution for electrical installation and equipment repairs of generators, drilling machines.",
-          image: "",
+          image: "Sulaiman-Koroma",
           showRemainder: false,
         },
         { 
