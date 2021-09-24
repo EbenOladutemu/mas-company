@@ -89,12 +89,21 @@ export default {
         //   image: "",
         //   showRemainder: false,
         // },
-        {
-          name: "Mohamed Kamara",
-          title: "Head Site Supervisor",
-          bioRemainder: "..",
-          image: "Mohamed-Kamara",
-          showRemainder: false
+        { 
+          name: "Zarkpah Newray",
+          title: "Chief Civil Engineer",
+          bio: "Zarkpah is a 2002 graduate from the Milton Margai College of Education and Technology with a Higher National Diploma in Building Construction and Civil Engineering. He has over 15 years of experience in the field of Construction and Borehole Drilling and has worked in various Districts in Sierra Leone.",
+          bioRemainder: "He commenced his career at Sky Construction and Engineering Services as Site Engineer from 2005 – 2009, he later joined City Construction Company as Assistant Quantity Surveyor in Liberia from 2009 to 2012. He also worked for IDEAS Partnership as Project Supervisor from 2012 to 2014 and finally with MAS Company (SL) Limited as Chief Civil Engineer. In addition to his qualification, he has attended several courses/training/seminars such as Project Management the Institute of Business Studies & Administration.",
+          image: "Henry-Zarkpah",
+          showRemainder: false,
+        },
+        { 
+          name: "Dolcie Millicent Hamilton",
+          title: "Stakeholder Specialist",
+          bio: "Dolcie Hamilton is a 2008 graduate from the Institute of Public Administration and Management with B.sc Hons in Financial Services, and MSc. in Business Administration. She worked in the banking industry for over 10 years, and commenced her career with Standard Chartered Bank SL in 2006.",
+          bioRemainder: "She is presently Head of Administration and Stakeholder Manger of the company, and in addition to her qualifications, she has attended several courses/training/seminars etc.",
+          image: "Dolcie-Hamilton",
+          showRemainder: false,
         },
         { 
           name: "Abubakarr Sesay",
@@ -105,20 +114,19 @@ export default {
           showRemainder: false,
         },
         { 
-          name: "Zarkpah Newray",
-          title: "Chief Civil Engineer",
-          bio: "Zarkpah is a 2002 graduate from the Milton Margai College of Education and Technology with a Higher National Diploma in Building Construction and Civil Engineering. He has over 15 years of experience in the field of Construction and Borehole Drilling and has worked in various Districts in Sierra Leone.",
-          bioRemainder: "He commenced his career at Sky Construction and Engineering Services as Site Engineer from 2005 – 2009, he later joined City Construction Company as Assistant Quantity Surveyor in Liberia from 2009 to 2012. He also worked for IDEAS Partnership as Project Supervisor from 2012 to 2014 and finally with MAS Company (SL) Limited as Chief Civil Engineer. In addition to his qualification, he has attended several courses/training/seminars such as Project Management the Institute of Business Studies & Administration.",
-          image: "Henry-Zarkpah",
-          showRemainder: false,
-        },
-        { 
           name: "Suliaman Koroma",
           title: "Chief Mechanical & Electronic Engineer",
           bio: "Sulaiman Koroma has over 8 years on field experience as an electrician working with the London Mining, Timis Mining Cooperation, Electricity Distribution and Supply Authority (EDSA) in various capacities such as Design and layout cabling system,",
           bioRemainder: "Installation and maintenance of Generator, emergency service on all electrical installation and equipment, Diagnose problem and provide solution for electrical installation and equipment repairs of generators, drilling machines.",
           image: "Sulaiman-Koroma",
           showRemainder: false,
+        },
+        {
+          name: "Mohamed Kamara",
+          title: "Head Site Supervisor",
+          bioRemainder: "..",
+          image: "Mohamed-Kamara",
+          showRemainder: false
         },
         { 
           name: "Michael Adou Rahman Turay",
@@ -128,22 +136,14 @@ export default {
           image: "",
           showRemainder: false,
         },
-        { 
-          name: "Samuel Taiwo Macauley",
-          title: "Mechanical Engineer",
-          bio: "Samuel T. Macauley has over 19 years on field experience as an electrician working with the Sierra Leone Red Cross Society, United Nation Mission in Sierra Leone (UNAMSIL), Zenith bank SL Limited and MAS Company SL Limited in various capacities such as Design and layout cabling system,",
-          bioRemainder: "maintenance of Generator, emergency service on all electrical installation and equipment, Diagnose problem and provide solution for electrical installation and equipment repairs of generators, drilling machines.",
-          image: "",
-          showRemainder: false,
-        },
-        { 
-          name: "Dolcie Millicent Hamilton",
-          title: "Stakeholder Specialist",
-          bio: "Dolcie Hamilton is a 2008 graduate from the Institute of Public Administration and Management with B.sc Hons in Financial Services, and MSc. in Business Administration. She worked in the banking industry for over 10 years, and commenced her career with Standard Chartered Bank SL in 2006.",
-          bioRemainder: "She is presently Head of Administration and Stakeholder Manger of the company, and in addition to her qualifications, she has attended several courses/training/seminars etc.",
-          image: "Dolcie-Hamilton",
-          showRemainder: false,
-        }
+        // { 
+        //   name: "Samuel Taiwo Macauley",
+        //   title: "Mechanical Engineer",
+        //   bio: "Samuel T. Macauley has over 19 years on field experience as an electrician working with the Sierra Leone Red Cross Society, United Nation Mission in Sierra Leone (UNAMSIL), Zenith bank SL Limited and MAS Company SL Limited in various capacities such as Design and layout cabling system,",
+        //   bioRemainder: "maintenance of Generator, emergency service on all electrical installation and equipment, Diagnose problem and provide solution for electrical installation and equipment repairs of generators, drilling machines.",
+        //   image: "",
+        //   showRemainder: false,
+        // },
       ]
     }
   },
