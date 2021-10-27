@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5d28efc675e590d5d50c4f39bf22de2c.js"
+  "/precache-manifest.a5d330786b561189bf6b9908f692a9b0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mas-company"});
