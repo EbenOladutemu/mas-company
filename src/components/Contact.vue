@@ -24,21 +24,21 @@
            <li>Instagram</li>
          </ul> -->
        </div>
-       <form class="mas-form">
+       <form class="mas-form" action="https://formsubmit.co/info@mas-companysl.com" method="POST">
         <div class="form-floating mb-3">
-          <input type="text" class="form-control" id="floatingPassword" placeholder="Your name">
+          <input type="text" class="form-control" name="name" id="floatingPassword" placeholder="Your name">
           <label for="floatingPassword">Name</label>
         </div>
          <div class="form-floating mb-3">
-          <input type="email" class="form-control" id="email" placeholder="Your email">
+          <input type="email" class="form-control" name="email" id="email" placeholder="Your email">
           <label for="email">Email address</label>
         </div>
         <div class="form-floating mb-3">
-          <input type="text" class="form-control" id="subject" placeholder="Subject">
+          <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
           <label for="subject">Subject</label>
         </div>
         <div class="form-floating mb-3">
-          <textarea type="text" class="form-control" id="message" placeholder="Your message" rows="8">
+          <textarea type="text" class="form-control" name="message" id="message" placeholder="Your message" rows="8">
           </textarea>
           <label for="message">Message</label>
         </div>
@@ -58,6 +58,7 @@ export default {
 #contact-us {
   background: #ecf5fb;
   margin: 3rem 0;
+  margin-bottom: 0;
   padding: 1rem 1rem 3rem 1rem;
 }
 .mas-social {
