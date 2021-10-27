@@ -197,7 +197,7 @@
                 class="carousel-item"
                 :class="project == 1 ? 'active' : ''"
                 data-bs-interval="10000"
-                v-for="project in 29"
+                v-for="project in 38"
                 :key="project.index"
               >
                 <img

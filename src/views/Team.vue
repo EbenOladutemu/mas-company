@@ -124,7 +124,8 @@ export default {
         {
           name: "Mohamed Kamara",
           title: "Head Site Supervisor",
-          bioRemainder: "..",
+          bio: "Mohamed Kamara has over four (4) years of extensive field experience. He has successfully supervised various projects for GOAL SL, World Vision International SL, UNICEF etc on behalf of the Company.",
+          bioRemainder: "He has wealth of experience with regards Safety and Safeguarding policies management on-site.",
           image: "Mohamed-Kamara",
           showRemainder: false
         },
